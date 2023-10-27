@@ -17,7 +17,7 @@ Aplikasi EmpathiCare dirancang untuk digunakan oleh dua kelompok pengguna utama:
 
 2. **Dokter dan Spesialis Kesehatan Mental 🩺🧠**: Dokter dan spesialis kesehatan mental memiliki kemampuan untuk memberikan saran dan bimbingan terkait kesehatan mental kepada pengguna akhir. Mereka berperan penting dalam memberikan perawatan yang personal dan efektif.
 
-Tim Kami
+## Tim Kami
 
 Kami adalah tim yang berdedikasi untuk menciptakan solusi kesehatan mental yang luar biasa. EmpathiCare tidak mungkin tanpa kontribusi berharga dari tim kami yang beragam:
 
